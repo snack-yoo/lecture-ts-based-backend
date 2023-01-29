@@ -1,5 +1,9 @@
 #IDEA
-.idea/
+.idea
 
 #VSC
-.vscode/
+.vscode
+
+#yarn
+node_modules
+
